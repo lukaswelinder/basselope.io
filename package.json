@@ -14,10 +14,7 @@
   "author": "lukaswelinder",
   "license": "MIT",
   "dependencies": {
-<<<<<<< HEAD
     "bing.search": "^1.0.1",
-=======
->>>>>>> 48bc354afdd2b2ed269e8b53750b66c52455f404
     "body-parser": "^1.15.1",
     "bookshelf": "^0.9.5",
     "btoa": "^1.1.2",

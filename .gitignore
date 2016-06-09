@@ -1,3 +1,5 @@
 app/public/dist
+app/server/data/db
 /.idea/
 /node_modules/
+app/public/assets/
